@@ -3,8 +3,9 @@ body{
 }
 
 h2{
-	font-family: Times new roman;
-	font-size: 10px;
+	font-family: sans-serif;
+	font-size: 50px;
+}
     font-style: italic;
     text-align: center;
     padding-top: 50px;
